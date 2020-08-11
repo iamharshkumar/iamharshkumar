@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django and Reactjs
 - 💬 Ask me about tech
 - 📫 How to reach me: harshinfo3@gmail.com
-- ⚡ Fun fact: Python is a snake
+
 
 [![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=iamharshkumar&count_private=true&show_icons=true&theme=radical)](https://github.com/iamharshkumar/github-readme-stats)
 
