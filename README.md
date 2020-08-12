@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Harsh kumar** is a ✨ Full Stack Developer ✨
+**I'm** a ✨ Full Stack Developer ✨
 
 - 🔭 I’m currently working on Django and Reactjs
 - 🌱 I’m currently learning Django and Reactjs
