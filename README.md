@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm** a ✨ Full Stack Developer ✨
+✨ Full Stack Developer ✨
 
 - 🔭 I’m currently working on Django and Reactjs
 - 🌱 I’m currently learning Django and Reactjs
