@@ -1,1 +1,1 @@
-✨ Learning Django and Reactjs ✨
+✨ Learning Django and Reactjs  ✨
